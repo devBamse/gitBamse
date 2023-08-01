@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitBamse
+- 👋 Hi, I’m @devBamse
 - 📫 How to reach me bamse.contact@gmail.com or on twitter @BamseDev
 
 <!---
